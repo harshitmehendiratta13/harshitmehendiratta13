@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 Exploring Machine Learning, AI, Data Science, and Software Engineering<br>💬 Currently building skills in Python, Java, and Git.</p>
+<p align="left">💡 Exploring Machine Learning, AI, Data Science, and Software Engineering<br>💬 Currently building skills in Python and Java.</p>
 
 ###
 
